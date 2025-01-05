@@ -1,0 +1,19 @@
+{
+  "name": "solid-engine",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apoorv-ksharma/solid-engine.git"
+  },
+  "author": "Apoorv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorv-ksharma/solid-engine/issues"
+  },
+  "homepage": "https://github.com/apoorv-ksharma/solid-engine#readme",
+  "description": ""
+}
